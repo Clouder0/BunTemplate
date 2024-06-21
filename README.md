@@ -1,2 +1,1 @@
-# BunTemplate
-Basic Bun Project Template
+# OmniLucy
